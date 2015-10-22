@@ -6,7 +6,7 @@
 
     <groupId>com.jirvan</groupId>
     <artifactId>ji-field</artifactId>
-    <version>1.1.23-SNAPSHOT</version>
+    <version>1.1.23_rc3</version>
     <packaging>war</packaging>
 
     <name>ji-field</name>
